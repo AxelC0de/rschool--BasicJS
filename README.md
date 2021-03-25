@@ -7,7 +7,7 @@ https://github.com/AlreadyBored/basic-js
 - [x] Dream team
 - [ ] What season?
 - [ ] Tower of Hanoi
-- [ ] Transform array
+- [x] Transform array
 - [ ] Chain maker
 - [ ] Recursive depth calculator
 - [ ] Extended repeater
