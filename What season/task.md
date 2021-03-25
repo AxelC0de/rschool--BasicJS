@@ -19,3 +19,15 @@ const springDate = new Date(2020, 02, 31)
 getSeason(springDate) => 'spring'
 
 Write your code in src/what-season.js.
+
+====================
+
+Требуется:
+построить функцию getSeason(date), которая принимает обьект Date, и возвращает соответствующий этой дате сезон года.
+Сезон года должен быть строкой.
+
+Если обьект Date не был передан, то функция getSeason(date) должна вернуть 'Unable to determine the time of year!'
+
+Если обьект Date не верен (мусор?), то функция getSeason(date) должна вернуть ошибку (Error)
+
+Если обьект Date не верен (мусор?), то функция getSeason(date) должна вернуть ошибку (Error)
